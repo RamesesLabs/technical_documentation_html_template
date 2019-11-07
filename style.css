@@ -1,0 +1,36 @@
+/* Custom Styling */
+
+ul {
+    list-style-type: none;
+}
+
+/* Main-section styling */
+
+.main-section {    
+    margin: 10px;
+}
+
+.main-section code {
+    padding: 2rem;
+    margin: 1 rem;
+    padding-bottom: 1rem;
+}
+
+.main-section p {
+    padding-top: 1rem;
+}
+
+.main-section ul {
+    list-style-type: disc;
+}
+
+/* Custom Nav Styling */
+
+#navbar {
+    padding: 2rem; 
+    width: 160px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+}
